@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RahmhAlsultan
+- 👋 Hi, I’m Rahmh Alsultan
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL and data analysis
 - 💞️ I’m looking to collaborate on data analysis
